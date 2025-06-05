@@ -1,2 +1,2 @@
 # bawaslu
-aplikasi sertifikasi bawaslu
+aplikasi sertifikasi bawaslu untuk client
